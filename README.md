@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, there 👋
+
+Welcome to my GitHub profile! This is a space for me to mess around as I try to improve my coding skills.
+
+👨‍🏫 I research and teach accounting-related topics.
+
+🌱 I’m currently learning Python, JavaScript, and HTML.
 
 <!--
 **BretSheeley/BretSheeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
